@@ -1,0 +1,6 @@
+gen-lang-client-0034147935-506244ef030c.json
+Data/
+output/
+*.pyc
+__pycache__/
+.env
